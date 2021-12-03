@@ -27,6 +27,6 @@
   - **HEX:** 1F2A3C
   - **RGB:** 31 / 42 / 60
   - **HSL:** 218 / 32 / 18
-  - 
+ 
   ### Contribution Guidelines
   See [Contributing.md](https://raw.githubusercontent.com/flybywiresim/fbw-branding/master/Contributing.md)
