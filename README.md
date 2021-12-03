@@ -1,7 +1,7 @@
 ![Group 8 (2)](https://user-images.githubusercontent.com/70079939/144655682-733feddf-8eb9-4443-9ddd-28febb92d731.png)
 
 
-#Guidelines
+#Guidelines#
 
 ### Typography
 - Aileron Font - [Download](https://www.1001fonts.com/aileron-font.html)
